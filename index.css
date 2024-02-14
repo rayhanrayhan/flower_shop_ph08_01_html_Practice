@@ -1,0 +1,235 @@
+.primary_bg{
+    background-color: rgba(229, 84, 115, 0.1);
+   
+
+}
+.banner_product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   margin-right: 90px;
+   margin-left: 90px;
+}
+
+.banner_title{
+    font-size: 80px;
+    font-weight: 600;
+}
+.banner_des {
+    font-size: 18px;
+}
+.primary_btn{
+    font-size: 20px;
+    font-weight: 600; 
+    background-color: rgba(229, 84, 115, 1);
+    color: white;
+    padding: 10px 15px  10px 15px;
+    border-color: transparent;
+    border-radius: 6px;
+
+
+}
+.banner_img{
+width: 635px;
+height: 800px;
+
+}
+
+/* all section tilte and description common  */
+.section_title{
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+margin-bottom: 0;
+}
+.section_des{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+/* Feature Flower  */
+.all_extra_section{
+    margin-right: 90px;
+    margin-left: 90px;  
+    padding-top: 5px;
+}
+.featured_flowers_card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+   
+}
+.card_flowers_img{
+    background-color: rgba(167, 33, 98, 0.15);
+    padding: 60px 90px 0 60px;
+    border: transparent;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+   width: 60%;
+   height: 60%;
+    /* margin-top: 20px; */
+
+}
+.card_flowers_img2{
+    background-color: rgba(5, 151, 160, 0.15);
+    padding: 60px 90px 0 60px;
+    border: transparent;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+   width: 60%;
+   height: 60%;
+    /* margin-top: 20px; */
+
+}
+.card_flowers_img3{
+    background-color: rgba(71, 125, 17, 0.15);
+    padding: 60px 90px 0 60px;
+    border: transparent;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+   width: 60%;
+   height: 60%;
+    /* margin-top: 20px; */
+
+}
+.card_flowers_name{
+font-size: 24px;
+font-weight: 600;
+margin-top: 5px;
+text-align: center;
+}
+
+
+/* label css */
+.label_card_full{
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: 50px;
+    box-shadow: 100px;
+}
+.label_card{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.label_card, img{
+    text-align: center;
+}
+.label_des{
+    font-size: 24px ;
+    font-weight: 500;
+}
+
+/* Banner Type  */
+.extra_banner_card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 90px;
+    margin-left: 90px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.extra_banner_title{
+    font-size: 40px;
+    font-weight: 800;
+    color: rgba(39, 39, 39, 1);
+    margin-bottom: 0;
+    text-align: center;
+
+}
+.extra_banner_des{
+    font-size: 18px;
+    color: rgba(39, 39, 39, 1);
+    margin-top: 5px;
+    text-align: center;
+
+}
+.extra_banner_card,button{
+    text-align: center;
+}
+
+/* instagram  */
+
+.instagram_flower{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+
+.flowers_insta{
+    width: 342px;
+    
+  
+}
+
+/* last banner  */
+
+.last_banner{
+    background-image: url(/Flower_Asset/Rectangle9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-size: contain
+ 
+  
+}
+
+
+/*  tilte and description  */
+.form_title{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0;
+    padding-top: 125px;
+
+    }
+    .form_des{
+        font-size: 18px;
+        text-align: center;
+        margin-top: 5px;
+    }
+
+
+
+    
+.form{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+   padding-bottom: 225px;
+}
+.search_bar{
+    padding: 13px 10px;
+    width: 600px;
+ 
+}
+
+/* footer */
+.footer{
+  background-color: #111010;  
+ 
+}
+
+/*  tilte and description  */
+.footer_title{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0;
+    padding-top: 55px;
+    color: white;
+
+    }
+    .footer_des{
+        font-size: 18px;
+        text-align: center;
+        margin-top: 5px;
+        padding-bottom: 55px;
+        color: white;
+    }
+
